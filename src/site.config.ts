@@ -10,7 +10,7 @@
 export const siteConfig = {
   title: "TinyBlog",
   description: "A zero-config static blog with GitHub Issues as comments.",
-  author: "Your Name",
+  author: "Robin",
   defaultLocale: "en" as const,
   bio: {
     en: "Writing about whatever I'm building.",
