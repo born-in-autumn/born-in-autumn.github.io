@@ -8,7 +8,7 @@
  * text matching their browser language, detected client-side.
  */
 export const siteConfig = {
-  title: "TinyBlog",
+  title: "Blog",
   description: "A zero-config static blog with GitHub Issues as comments.",
   author: "Robin",
   defaultLocale: "en" as const,
