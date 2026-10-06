@@ -14,11 +14,12 @@ export const siteConfig = {
   defaultLocale: "en" as const,
   bio: {
     en: "Writing about whatever I'm building.",
-    zh: "写点正在做的东西。",
+    zh: "这里有我在Rust社区里贡献的所有PR，由于精力原因，我没有准备英文版本",
   },
   nav: [
     { href: "/", en: "Home", zh: "首页" },
     { href: "/about", en: "About", zh: "关于" },
+    { href: "/notes", en: "Notes", zh: "笔记" }, // 新增笔记Tab
   ],
   social: {
     github: "", // e.g. "https://github.com/your-name" (blank hides the link)
